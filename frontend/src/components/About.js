@@ -11,7 +11,7 @@ class About extends React.Component{
                        <li>React JS</li>
                        <li>Node JS</li>
                        <li>Express</li>
-                       <li>Sqlite3</li>
+                       <li>MySql</li>
                    </ul>
                 <p>Styling is done through:</p>
                    <ul>
